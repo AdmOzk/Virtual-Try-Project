@@ -7,3 +7,14 @@ The development phase involved writing code, integrating various AR frameworks a
 To maintain a high standard of quality, we conducted rigorous testing at each stage of development. We identified and resolved any bugs or issues that arose, ensuring a stable and reliable user experience. User feedback and usability testing played a crucial role in refining the application and ensuring it met the needs and expectations of the target audience.
 Upon completing the development and testing phases, we successfully deployed the AR mobile application. The app allowed users to experience augmented reality in a variety of contexts, such as education, entertainment, and marketing. It provided interactive and immersive content, overlaying digital information onto the physical world through the device's camera.
 Overall, this project was an invaluable opportunity for me to gain practical experience in developing an AR application while collaborating with industry professionals. The hands-on experience with Agile development methodologies strengthened my ability to adapt to evolving project requirements and work effectively in a team. I am proud of our team's accomplishments and the innovative solution we delivered through this AR project.
+
+Screen shuts about project:
+ ![nttileproje](https://github.com/user-attachments/assets/5fdd04ff-04ed-417a-98db-c6d2d2125684)
+
+![aldgıımgorevler](https://github.com/user-attachments/assets/e478c566-c2a8-4ed6-aa5b-8343d69c72d3)
+
+![objedenonce](https://github.com/user-attachments/assets/ad24714f-46f2-422a-8eea-b44b4e96e969)
+
+![objekoyma](https://github.com/user-attachments/assets/466fedd5-5684-44bb-b7e5-a75e96bc9d8a)
+
+
